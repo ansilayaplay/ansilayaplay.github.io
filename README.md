@@ -1,1 +1,2 @@
 # Ansilaya'nın GitHub sayfasına hoşgeldiniz. Burada Ansilaya zip dosyasını indirebilir veya Wiki'de gezinebilirsiniz.
+# Kâmil, Ruhi, Aykut ve Nara isimli 4 arkadaş, Bir karadelikteki değerli Enovon isimli bir elementi almak için Ansilaya isimli bir adaya indiler. Ve Ansilaya'da harika bir macera sizi bekliyor! Serinin 1. oyunumuzda sizi 4 farklı parkur ve 100 levele kadar uzun bir Gameplay bekliyor. Hemen oynamaya başla! Ansilaya, GitHub'da yayındadır. Resmi sitemiz https://ansilaya.github.io/'dur.
